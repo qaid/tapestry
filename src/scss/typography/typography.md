@@ -3,11 +3,11 @@
 ## Heading (html tag)
 
 ```html
-<h1>Basic h1</h1>
-<h2>Basic h2</h2>
-<h3>Basic h3</h3>
-<h4>Basic h4</h4>
-<h5>Basic h5</h5>
+<h1 data-cssinfo>Basic h1</h1>
+<h2 data-cssinfo>Basic h2</h2>
+<h3 data-cssinfo>Basic h3</h3>
+<h4 data-cssinfo>Basic h4</h4>
+<h5 data-cssinfo>Basic h5</h5>
 ```
 
 ## Body text (html tag)
